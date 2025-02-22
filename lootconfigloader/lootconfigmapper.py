@@ -8,7 +8,7 @@ from mobase import (
     ReleaseType,
     VersionInfo,
 )
-from PyQt5.QtWidgets import QMainWindow
+from PyQt6.QtWidgets import QMainWindow
 
 
 class LOOTConfigMapper(IPluginFileMapper):
